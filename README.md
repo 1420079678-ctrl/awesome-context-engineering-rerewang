@@ -2,7 +2,7 @@
 
 > A curated list of Context Engineering references, frameworks, and best practices for building production-grade AI systems.
 
-English | 中文
+[English](README.md) | [中文](README-CN.md)
 
 ## Contents
 
@@ -92,58 +92,6 @@ English | 中文
   - Enhanced AI collaboration capabilities
 * **Use Cases**: AI agent training, project context documentation, enhanced AI collaboration
 * **Official Resources**: [Documentation](https://kiro.dev/docs/specs/) | [Website](https://kiro.dev)
-
-## Context Management Tools
-
-### Vector Databases & Storage
-* **Pinecone** - Vector database for semantic search and context retrieval
-* **Weaviate** - Open-source vector database with context-aware search
-* **Qdrant** - High-performance vector database for real-time context management
-
-### Context Optimization
-* **RAG (Retrieval-Augmented Generation)** - Dynamic context building from external knowledge bases
-* **Chain-of-Thought** - Structured reasoning that maintains context coherence
-* **Tree-of-Thoughts** - Branching thought processes for complex context management
-
-### Development Tools
-* **LangChain** - Build context-aware AI applications
-* **LlamaIndex** - Intelligent data indexing and retrieval
-* **AutoGen** - Multi-agent context collaboration
-
-## Enterprise Solutions
-
-### Context Engineering Platforms
-* **Contextual AI** - Enterprise context management platform
-* **Portkey.ai** - Context orchestration for high-throughput scenarios
-* **Forte Group** - Context Engineering as a core discipline for AI-driven delivery
-
-### Case Studies
-* **JPMorgan's COiN Platform** - Agentic AI for financial analysis with context management
-* **EY's Agentic AI Integration** - Microsoft 365 Copilot with enterprise context
-* **Enterprise RAG Applications** - Context layer for large-scale deployments
-
-## Research & Papers
-
-### Academic Foundations
-* **[A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334)** - Comprehensive academic survey covering advanced context manipulation techniques
-* **Context Engineering by David Kimai** - Theoretical exploration of Context Engineering as a "continuous field"
-
-### Industry Research
-* **OpenAI Research** - Official publications on context management
-* **Anthropic Research** - Alignment and LLM interaction techniques
-* **Google Research** - Context optimization and retrieval methods
-
-## Community & Resources
-
-### Online Communities
-* **r/PromptEngineering** - Reddit community for prompt engineering discussions
-* **AI Engineering Discord** - Real-time discussions on AI development
-* **Context Engineering Workshops** - Professional development and training
-
-### News & Updates
-* **Context Engineering Trends 2025** - Latest developments in the field
-* **Enterprise AI Context Management** - Industry adoption and best practices
-* **Context Engineering vs. Vibe Coding** - Ongoing debate and evolution
 
 ## Contribute
 

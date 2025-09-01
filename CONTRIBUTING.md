@@ -1,199 +1,199 @@
-# 贡献指南 🤝
+# Contributing Guide 🤝
 
-感谢你对 **Awesome Context Engineering** 项目的关注！我们欢迎所有形式的贡献，帮助构建生产级的 AI 系统开发资源库。
+Thank you for your interest in the **Awesome Context Engineering** project! We welcome all forms of contributions to help build a comprehensive resource library for production-grade AI system development.
 
-## 🚀 如何贡献
+## 🚀 How to Contribute
 
-### 1. Fork 和 Clone
+### 1. Fork and Clone
 
 ```bash
-# Fork 这个仓库
-# 然后 clone 你的 fork
+# Fork this repository
+# Then clone your fork
 git clone https://github.com/YOUR_USERNAME/awesome-context-engineering.git
 cd awesome-context-engineering
 ```
 
-### 2. 创建分支
+### 2. Create a Branch
 
 ```bash
 git checkout -b feature/your-feature-name
-# 或者
+# or
 git checkout -b fix/your-fix-name
 ```
 
-### 3. 做出更改
+### 3. Make Changes
 
-* 添加新的 Context Engineering 框架和工具
-* 改进现有内容描述
-* 修复错误或链接失效
-* 添加新的分类或章节
-* 改进文档结构和可读性
+* Add new Context Engineering frameworks and tools
+* Improve existing content descriptions
+* Fix errors or broken links
+* Add new categories or sections
+* Improve document structure and readability
 
-### 4. 提交更改
+### 4. Commit Changes
 
 ```bash
 git add .
-git commit -m "feat: 添加新的 Context Engineering 资源"
+git commit -m "feat: add new Context Engineering resource"
 ```
 
-### 5. 推送和 Pull Request
+### 5. Push and Pull Request
 
 ```bash
 git push origin feature/your-feature-name
-# 然后在 GitHub 上创建 Pull Request
+# Then create a Pull Request on GitHub
 ```
 
-## 📋 贡献类型
+## 📋 Types of Contributions
 
-### 🌟 核心框架和工具
+### 🌟 Core Frameworks and Tools
 
-* **Context Engineering 框架**：如 BMAD-METHOD、AGENTS.md 等
-* **上下文管理工具**：向量数据库、RAG 工具、开发框架
-* **企业解决方案**：生产级 Context Engineering 平台
-* **规范和标准**：AI 代理指令、上下文管理规范
+* **Context Engineering Frameworks**: Such as BMAD-METHOD, AGENTS.md, etc.
+* **Context Management Tools**: Vector databases, RAG tools, development frameworks
+* **Enterprise Solutions**: Production-grade Context Engineering platforms
+* **Specifications and Standards**: AI agent instructions, context management specifications
 
-### 🔬 研究和学术资源
+### 🔬 Research and Academic Resources
 
-* **学术论文**：Context Engineering 相关研究
-* **技术报告**：行业最佳实践和案例研究
-* **白皮书**：企业应用指南和标准
-* **技术博客**：深度技术分析和教程
+* **Academic Papers**: Context Engineering related research
+* **Technical Reports**: Industry best practices and case studies
+* **White Papers**: Enterprise application guides and standards
+* **Technical Blogs**: In-depth technical analysis and tutorials
 
-### 📚 学习和实践资源
+### 📚 Learning and Practice Resources
 
-* **教程和指南**：Context Engineering 实践指南
-* **实际案例**：企业应用案例和项目经验
-* **模板和工具**：可重用的 Context Engineering 模板
-* **社区资源**：在线社区、工作坊、会议信息
+* **Tutorials and Guides**: Context Engineering practice guides
+* **Real-world Cases**: Enterprise application cases and project experiences
+* **Templates and Tools**: Reusable Context Engineering templates
+* **Community Resources**: Online communities, workshops, conference information
 
-### 🌍 多语言支持
+### 🌍 Multi-language Support
 
-* **中文翻译**：改进中文文档质量
-* **其他语言**：添加更多语言版本
-* **本地化内容**：针对不同地区的 Context Engineering 实践
+* **Chinese Translation**: Improve Chinese document quality
+* **Other Languages**: Add more language versions
+* **Localized Content**: Context Engineering practices for different regions
 
-## 📝 内容标准
+## 📝 Content Standards
 
-### 质量要求
+### Quality Requirements
 
-* ✅ **相关性**：内容必须与 Context Engineering 直接相关
-* ✅ **实用性**：提供实际价值，支持生产级 AI 系统开发
-* ✅ **准确性**：信息准确，链接有效，描述清晰
-* ✅ **完整性**：包含必要的技术细节和使用场景
+* ✅ **Relevance**: Content must be directly related to Context Engineering
+* ✅ **Practicality**: Provide actual value, supporting production-grade AI system development
+* ✅ **Accuracy**: Information must be accurate, links valid, descriptions clear
+* ✅ **Completeness**: Include necessary technical details and use cases
 
-### 格式要求
+### Format Requirements
 
-* 使用 Markdown 格式
-* 遵循现有的文件结构和命名约定
-* 保持一致的 emoji 图标使用
-* 提供清晰的分类和标签
+* Use Markdown format
+* Follow existing file structure and naming conventions
+* Maintain consistent emoji icon usage
+* Provide clear categories and tags
 
-### 链接要求
+### Link Requirements
 
-* 优先使用官方文档和 GitHub 仓库链接
-* 避免链接到付费墙或临时内容
-* 定期检查链接有效性
-* 提供链接描述、用途和适用场景
+* Prioritize official documentation and GitHub repository links
+* Avoid links to paywalls or temporary content
+* Regularly check link validity
+* Provide link descriptions, purposes, and applicable scenarios
 
-## 🏗️ 项目结构
+## 🏗️ Project Structure
 
 ```
 awesome-context-engineering/
-├── README.md                 # 英文主页面
-├── README-CN.md             # 中文主页面
-├── CONTRIBUTING.md          # 中文贡献指南
-├── CONTRIBUTING-EN.md       # 英文贡献指南
-├── LICENSE                  # MIT 许可证
-├── package.json             # 项目配置和依赖
-├── .gitignore               # Git 忽略文件
-├── basics/                  # Context Engineering 基础知识
-├── frameworks/              # 核心框架和方法
-├── templates/               # 项目模板和工具
-├── examples/                # 实际应用案例
-├── docs/                    # 详细文档和指南
-└── assets/                  # 图片和资源文件
+├── README.md                 # English main page
+├── README-CN.md             # Chinese main page
+├── CONTRIBUTING.md          # Chinese contributing guide
+├── CONTRIBUTING-EN.md       # English contributing guide
+├── LICENSE                  # MIT License
+├── package.json             # Project configuration and dependencies
+├── .gitignore               # Git ignore file
+├── basics/                  # Context Engineering basics
+├── frameworks/              # Core frameworks and methods
+├── templates/               # Project templates and tools
+├── examples/                # Real application cases
+├── docs/                    # Detailed documentation and guides
+└── assets/                  # Images and resource files
 ```
 
-## 🎯 贡献优先级
+## 🎯 Contribution Priorities
 
-### 高优先级 🚨
+### High Priority 🚨
 
-* 添加新的 Context Engineering 框架和工具
-* 修复失效链接和错误信息
-* 改进核心框架的描述和示例
-* 添加企业级应用案例
+* Add new Context Engineering frameworks and tools
+* Fix broken links and error information
+* Improve descriptions and examples of core frameworks
+* Add enterprise-level application cases
 
-### 中优先级 📊
+### Medium Priority 📊
 
-* 扩展上下文管理工具分类
-* 添加研究和学术资源
-* 改进多语言支持
-* 创建实用的模板和示例
+* Expand context management tool categories
+* Add research and academic resources
+* Improve multi-language support
+* Create practical templates and examples
 
-### 低优先级 📝
+### Low Priority 📝
 
-* 样式和格式优化
-* 次要功能添加
-* 文档结构微调
+* Style and format optimization
+* Minor feature additions
+* Document structure fine-tuning
 
-## 🤝 社区准则
+## 🤝 Community Guidelines
 
-### 行为准则
+### Code of Conduct
 
-* **专业性**：保持专业和建设性的交流
-* **包容性**：欢迎不同背景和经验的贡献者
-* **耐心和理解**：理解贡献者可能有不同的技能水平
-* **建设性反馈**：提供有建设性的建议和指导
+* **Professionalism**: Maintain professional and constructive communication
+* **Inclusivity**: Welcome contributors with different backgrounds and experience levels
+* **Patience and Understanding**: Understand that contributors may have different skill levels
+* **Constructive Feedback**: Provide constructive suggestions and guidance
 
-### 沟通渠道
+### Communication Channels
 
-* **Issues**：报告问题、建议新功能、讨论改进
-* **Discussions**：讨论 Context Engineering 相关话题
-* **Pull Requests**：代码和内容贡献
-* **Wiki**：项目文档和最佳实践指南
+* **Issues**: Report problems, suggest new features, discuss improvements
+* **Discussions**: Discuss Context Engineering related topics
+* **Pull Requests**: Code and content contributions
+* **Wiki**: Project documentation and best practice guides
 
-## 📚 学习资源
+## 📚 Learning Resources
 
-### 开始之前
+### Before You Start
 
-* 阅读 [README.md](README.md) 和 [README-CN.md](README-CN.md) 了解项目
-* 熟悉 Context Engineering 的核心概念
-* 查看现有的 Issues 和 Pull Requests
-* 了解 Markdown 语法和 Git 基本操作
+* Read [README.md](README.md) and [README-CN.md](README-CN.md) to understand the project
+* Familiarize yourself with core Context Engineering concepts
+* Check existing Issues and Pull Requests
+* Understand Markdown syntax and basic Git operations
 
-### 相关资源
+### Related Resources
 
-* [GitHub 贡献指南](https://github.com/github/opensource.guide)
-* [Markdown 语法](https://www.markdownguide.org/)
-* [开源贡献最佳实践](https://opensource.guide/)
-* [Context Engineering 社区资源](https://github.com/Meirtz/Awesome-Context-Engineering)
+* [GitHub Contributing Guide](https://github.com/github/opensource.guide)
+* [Markdown Syntax](https://www.markdownguide.org/)
+* [Open Source Contributing Best Practices](https://opensource.guide/)
+* [Context Engineering Community Resources](https://github.com/Meirtz/Awesome-Context-Engineering)
 
-## 🏆 认可贡献
+## 🏆 Recognition of Contributions
 
-### 贡献者名单
+### Contributor List
 
-所有贡献者都会被列在项目的贡献者名单中，并在 README 中提及。
+All contributors will be listed in the project's contributor list and mentioned in the README.
 
-### 特殊贡献
+### Special Contributions
 
-* **核心贡献者**：持续贡献的活跃成员
-* **框架专家**：在特定 Context Engineering 框架领域做出重要贡献
-* **内容专家**：在 Context Engineering 理论和实践方面做出重要贡献
-* **社区建设者**：帮助建立和维护 Context Engineering 社区
+* **Core Contributors**: Active members with continuous contributions
+* **Framework Experts**: Important contributions in specific Context Engineering framework areas
+* **Content Experts**: Important contributions in Context Engineering theory and practice
+* **Community Builders**: Help build and maintain the Context Engineering community
 
-## ❓ 需要帮助？
+## ❓ Need Help?
 
-如果你在贡献过程中遇到问题：
+If you encounter problems during the contribution process:
 
-1. 查看现有的 Issues 和 Discussions
-2. 创建新的 Issue 描述你的问题
-3. 在 Discussions 中寻求帮助
-4. 联系项目维护者
+1. Check existing Issues and Discussions
+2. Create a new Issue describing your problem
+3. Seek help in Discussions
+4. Contact project maintainers
 
-## 🙏 感谢
+## 🙏 Acknowledgments
 
-再次感谢你的贡献！每一个贡献都让这个项目变得更好，帮助我们构建更强大的 Context Engineering 生态系统。
+Thank you again for your contributions! Every contribution makes this project better and helps us build a stronger Context Engineering ecosystem.
 
 ---
 
-*最后更新：2025年9月*
+*Last updated: September 2025*
