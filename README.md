@@ -69,6 +69,30 @@ English | 中文
 * **Use Cases**: Project documentation, AI collaboration, team knowledge transfer
 * **Official Resources**: [Website](https://agents.md) | [Examples](https://agents.md/#examples)
 
+### 🚀 Claude Code Spec Workflow
+**Automated Context-Driven Development Framework**
+* **Core Concept**: Spec-driven development workflow (Requirements → Design → Tasks → Implementation) with automated context management
+* **Context Engineering Benefits**: Hierarchical context management strategy, eliminates redundant loading, smart document handling with 60-80% token reduction
+* **Key Features**: 
+  - Automated spec creation and execution
+  - Bug fix workflow (Report → Analyze → Fix → Verify)
+  - Context optimization commands for efficient document loading
+  - Type-safe project handling with 95%+ type coverage
+* **Use Cases**: New feature development, bug resolution, project context management
+* **Official Resources**: [GitHub](https://github.com/Pimzino/claude-code-spec-workflow) | [Documentation](https://github.com/Pimzino/claude-code-spec-workflow#readme)
+
+### ⚡ Kiro
+**AI-Powered Context Engineering IDE**
+* **Core Concept**: The AI IDE for prototype to production with built-in Context Engineering capabilities
+* **Context Engineering Benefits**: Seamless context management from development to deployment, intelligent context preservation across development stages
+* **Key Features**: 
+  - AI-driven development environment
+  - Context-aware code generation and editing
+  - Built-in Context Engineering workflows
+  - Prototype to production pipeline
+* **Use Cases**: AI-powered development, context-aware coding, rapid prototyping with context preservation
+* **Official Resources**: [Website](https://kiro.dev) | [Documentation](https://kiro.dev/docs/specs/)
+
 ## Context Management Tools
 
 ### Vector Databases & Storage
@@ -138,7 +162,7 @@ A curated list of Context Engineering references, frameworks, and best practices
 
 ### Topics
 
-`context-engineering` `ai` `enterprise-ai` `production-ai` `context-management` `ai-systems` `bmad-method` `agents-md` `rag` `vector-databases`
+`context-engineering` `ai` `enterprise-ai` `production-ai` `context-management` `ai-systems` `bmad-method` `agents-md` `claude-code-spec-workflow` `kiro` `rag` `vector-databases`
 
 ---
 
