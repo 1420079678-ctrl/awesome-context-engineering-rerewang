@@ -81,17 +81,17 @@ English | 中文
 * **Use Cases**: New feature development, bug resolution, project context management
 * **Official Resources**: [GitHub](https://github.com/Pimzino/claude-code-spec-workflow) | [Documentation](https://github.com/Pimzino/claude-code-spec-workflow#readme)
 
-### ⚡ Kiro
-**AI-Powered Context Engineering IDE**
-* **Core Concept**: The AI IDE for prototype to production with built-in Context Engineering capabilities
-* **Context Engineering Benefits**: Seamless context management from development to deployment, intelligent context preservation across development stages
+### ⚡ Kiro Specs
+**AI-Driven Specification and Context Management System**
+* **Core Concept**: Advanced specification system that enables AI agents to understand project context through structured specs
+* **Context Engineering Benefits**: Provides AI agents with comprehensive project understanding, enabling context-aware development and decision-making
 * **Key Features**: 
-  - AI-driven development environment
-  - Context-aware code generation and editing
-  - Built-in Context Engineering workflows
-  - Prototype to production pipeline
-* **Use Cases**: AI-powered development, context-aware coding, rapid prototyping with context preservation
-* **Official Resources**: [Website](https://kiro.dev) | [Documentation](https://kiro.dev/docs/specs/)
+  - AI-readable project specifications
+  - Context-aware project analysis
+  - Structured information for AI agents
+  - Enhanced AI collaboration capabilities
+* **Use Cases**: AI agent training, project context documentation, enhanced AI collaboration
+* **Official Resources**: [Documentation](https://kiro.dev/docs/specs/) | [Website](https://kiro.dev)
 
 ## Context Management Tools
 
@@ -162,7 +162,7 @@ A curated list of Context Engineering references, frameworks, and best practices
 
 ### Topics
 
-`context-engineering` `ai` `enterprise-ai` `production-ai` `context-management` `ai-systems` `bmad-method` `agents-md` `claude-code-spec-workflow` `kiro` `rag` `vector-databases`
+`context-engineering` `ai` `enterprise-ai` `production-ai` `context-management` `ai-systems` `bmad-method` `agents-md` `claude-code-spec-workflow` `kiro-specs` `rag` `vector-databases`
 
 ---
 
