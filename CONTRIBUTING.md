@@ -101,7 +101,8 @@ git push origin feature/your-feature-name
 awesome-context-engineering/
 ├── README.md                 # 英文主页面
 ├── README-CN.md             # 中文主页面
-├── CONTRIBUTING.md          # 贡献指南
+├── CONTRIBUTING.md          # 中文贡献指南
+├── CONTRIBUTING-EN.md       # 英文贡献指南
 ├── LICENSE                  # MIT 许可证
 ├── package.json             # 项目配置和依赖
 ├── .gitignore               # Git 忽略文件
